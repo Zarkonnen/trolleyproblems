@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Trolley Problem Generator</title>
+        <style>
+            body {
+                color: #333333;
+                cursor: pointer;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="problems" style="font-size: 24pt; line-height: 150%; padding: 1em;">S</div>
+        <script src="trolleys.js"></script>
+        <script>
+            trolley("problems");
+            document.onclick = function() { trolley("problems"); };
+        </script>
+        <div style="text-align: center; margin-top: 5em;">Click for another one. This is <a href="http://www.zarkonnen.com">David Stark's</a> fault.</div>
+    </body>
+</html>
