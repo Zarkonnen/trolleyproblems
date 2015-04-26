@@ -1,5 +1,5 @@
 # trolleyproblems
-A generator for trolley problems.
+[A generator for trolley problems.](http://zarkonnen.github.io/trolleyproblems/)
 
 Trolley problems are ethical thought experiments about making life-or-death decisions where you may choose to redirect a runaway trolley. Lots of variations exist exploring questions of action versus inaction, culpability, etc. but not everyone agrees that this kind of artificial setup is particularly applicable or enlightening.
 
